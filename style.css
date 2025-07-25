@@ -66,6 +66,15 @@ section h2 {
   font-size: 0.9em;
 }
 
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+
 footer {
   text-align: center;
   font-size: 0.9rem;
